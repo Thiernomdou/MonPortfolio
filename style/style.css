@@ -210,7 +210,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url("../img/th8.jpg");
+	background-image: url("../img/th2.jpg");
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -237,7 +237,6 @@ p {
 	display: block;
 	width: fit-content;
 	font-size: 4rem;
-	font-family: 'Kaushan Script', cursive;
 	position: relative;
 	color: white;
 }
@@ -294,12 +293,10 @@ p {
 	font-weight: 500;
 	letter-spacing: .2rem;
 	margin-bottom: 10px;
-	font-family: 'Kaushan Script', cursive;
 }
 #about .col-right p {
 	margin-bottom: 20px;
 	font-size: 2rem;
-	font-family: 'Kaushan Script', cursive;
 }
 #about .col-right .cta {
 	color: black;
@@ -367,12 +364,10 @@ p {
 #projects .project-info h1 {
 	font-size: 3rem;
 	font-weight: 500;
-	font-family: 'Kaushan Script', cursive;
 }
 #projects .project-info p {
 	color: white;
 	font-size: 2.5rem;
-	font-family: 'Kaushan Script', cursive;
 }
 #projects .project-img {
 	flex-basis: 50%;
